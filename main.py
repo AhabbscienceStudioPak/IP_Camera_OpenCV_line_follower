@@ -5,7 +5,7 @@ import requests
 
 #video_capture = cv2.VideoCapture(0)
 
-url = "http://192.168.10.3:8080/shot.jpg"
+url = "type your webcam ip address here"
 #video_capture = cv2.VideoCapture(0)
 
 #video_capture.set(3, 160)
