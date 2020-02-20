@@ -6,12 +6,12 @@ This code is mainly based on <a href="http://einsteiniumstudios.com/beaglebone-o
 ```pip install opencv-python```
 
 #### PyGUIAuto [optional]
-If you want to simulate keystrokes.
+If you want to simulate keystrokes.<br>
 ```pip install PyAutoGUI```
 
 #### Numpy
 ```pip install numpy```
 
 #### Requests
-Requests is an elegant and simple HTTP library for Python.
+Requests is an elegant and simple HTTP library for Python.<br>
 ```pip install requests```
